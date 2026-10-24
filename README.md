@@ -13,5 +13,5 @@ Date Started: 10/10/2026
 - DevOps is a culture + practices + toolchain
 - CALMS framework: Culture, Automation, Lean, Measurement, Sharing
 - 8-stage lifecycle: Plan, Code, Build, Test, Release, Deploy, Operate, Monitor
-- Local environment is fully configured and ready
+- Local environment is fully configured and ready.
 ─────────────────────────────────
