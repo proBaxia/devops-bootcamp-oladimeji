@@ -1,6 +1,6 @@
 # My DevOps Bootcamp Journey
-Name: OLADIMEJI AKINTADE
-Date Started: 10/10/2026
+- Name: OLADIMEJI AKINTADE
+- Date Started: 10/10/2026
 
 ## Why I Joined This Bootcamp
 - I joined this DevOps bootcamp to bridge the gap between software development and system operations,
@@ -14,4 +14,3 @@ Date Started: 10/10/2026
 - CALMS framework: Culture, Automation, Lean, Measurement, Sharing
 - 8-stage lifecycle: Plan, Code, Build, Test, Release, Deploy, Operate, Monitor
 - Local environment is fully configured and ready.
-─────────────────────────────────
